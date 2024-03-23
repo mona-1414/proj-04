@@ -22,7 +22,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://github.com/mona-1414/cats-fetcher/blob/main/project-04.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/mona-1414/proj-04/blob/main/project-04.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  LiceCap
