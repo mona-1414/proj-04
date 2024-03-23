@@ -30,7 +30,7 @@ GIF created with ...  LiceCap
 
 ## License
 
-    Copyright [2023] [Mona Gomaa]
+    Copyright [2024] [Mona Gomaa]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
